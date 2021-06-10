@@ -1,0 +1,34 @@
+.menu-btn{
+    -fx-min-width: 300px;
+    -fx-font-size: 25px;
+    -fx-background-color : #CCFF99;
+    -fx-background-radius : 20px;
+}
+
+.menu-btn:hover{
+    -fx-background-color : white;
+}
+
+.option-btn{
+    -fx-min-width: 350px;
+    -fx-font-size: 20px;
+    -fx-background-color : #AAFF99;
+    -fx-background-radius : 20px;
+}
+
+.option-btn:hover{
+    -fx-background-color : white;
+}
+
+.title{
+    -fx-font-size: 25px;
+}
+
+.data{
+    -fx-font-size: 20px;
+    -fx-text-fill: red;
+}
+
+.data-about{
+    -fx-font-size: 20px;
+}
